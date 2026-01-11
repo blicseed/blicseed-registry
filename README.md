@@ -1,0 +1,2 @@
+# blicseed-registry
+registry mirror
