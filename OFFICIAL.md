@@ -5,8 +5,6 @@
 ## Official domains
 - blicseed.xyz
 - blicseed.com
-- blicblic.xyz
-- blicblic.com
 
 ## Canonical verification
 This file is a canonical registry mirror.  
